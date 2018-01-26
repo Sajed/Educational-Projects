@@ -1,11 +1,5 @@
 /*****************************************************
-This program was produced by the
-CodeWizardAVR V2.05.3 Standard
-Automatic Program Generator
-© Copyright 1998-2011 Pavel Haiduc, HP InfoTech s.r.l.
-http://www.hpinfotech.com
-
-Project : 
+Project : 7-segment display common anode counter
 Version : 
 Date    : 10/15/2014
 Author  : Sajed RasouliFar
