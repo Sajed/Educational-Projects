@@ -1,2 +1,2 @@
-# Student-Projects
-Exercises and training projects related to microcontroller and microprocessor
+# Educational-Projects
+Exercises and Educational projects related to microcontroller and microprocessor
